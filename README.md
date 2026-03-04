@@ -41,7 +41,7 @@ A recommendation engine will organize these foods into balanced meals while main
 - **Frontend:** React / Web Interface  
 - **Backend:** Node.js (Express) or Python  
 - **Database:** MongoDB  
-- **AI/ML:** Recommendation system using machine learning libraries  
+- **AI:** Recommendation system using AI libraries  
 
 ---
 
