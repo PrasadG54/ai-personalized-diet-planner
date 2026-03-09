@@ -84,4 +84,4 @@ During the hackathon, the team will follow a structured approach to build a work
 
 ## Goal
 
-The main objective of this project is to make healthy eating **personalized, practical, and accessible** by combining AI-based recommendations with culturally relevant Indian diet options.
+The main objective of this project is to make healthy eating **personalized, practical, and accessible** by combining AI-based recommendations with culturally relevant Indian diet options..
